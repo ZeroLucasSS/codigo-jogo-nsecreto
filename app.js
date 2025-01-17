@@ -1,7 +1,7 @@
 // 127.0.0.1:5500/index.html
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio()
 let tentativas = 1;
 
